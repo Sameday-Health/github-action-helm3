@@ -1,4 +1,6 @@
-# Helm 3 Github Action
+# Helm 3 Github Action - Sameday Fork
+
+This repo is used and directly referenced by Github actions workflows which deploy to K8S in AWS, like Halo, and the Sameday frontend applications.
 
 Slim wrapper around [helm3](https://github.com/helm/helm) Docker image
 
